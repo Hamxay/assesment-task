@@ -1,0 +1,36 @@
+Software Development
+
+Job Title: Software Developer (.NET / Java / Python)
+
+Overview:
+We are seeking skilled Software Developers with expertise in modern programming languages and frameworks such as .NET, Java, and Python. The role involves building scalable, secure, and maintainable applications across multiple domains.
+
+Key Responsibilities:
+
+Design, develop, and maintain backend services and applications.
+
+Collaborate with cross-functional teams to deliver high-quality solutions.
+
+Write clean, efficient, and testable code following best practices.
+
+Participate in code reviews, debugging, and optimization.
+
+Stay updated on emerging technologies and recommend improvements.
+
+Required Skills:
+
+Proficiency in one or more programming languages (.NET, Java, Python, C#).
+
+Strong knowledge of object-oriented design and design patterns.
+
+Experience with APIs, microservices, and RESTful architecture.
+
+Familiarity with version control (Git) and CI/CD pipelines.
+
+Preferred Qualifications:
+
+Bachelor’s degree in Computer Science or related field.
+
+Exposure to Agile/Scrum methodologies.
+
+Experience with containerization (Docker, Kubernetes).
